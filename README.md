@@ -1,3 +1,3 @@
-# Mobile-Technology
+# Mobile-Apps-Playground
 
-Play ground to explain and learn mobile technology concepts.
+Play ground for experimenting Mobile Apps
